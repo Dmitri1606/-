@@ -32,3 +32,15 @@
 #     print('это палиндром')
 # else:
 #     print('не палиндром')
+
+
+# my_str=str(input())
+# simvol = []
+# for i in my_str:
+#   if i not in simvol:
+#     simvol.append(i)
+# print(str(simvol))
+
+
+
+
